@@ -1,0 +1,27 @@
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards{
+    width: 400px;
+    margin:0px 20px 0px 20px;
+    display: flex;
+}
+
+.nextDiv{
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.nextBtn{
+    background-color: blue;
+    color:white
+}
+.computer,.player{
+    width:300px;
+    text-align: center;
+}

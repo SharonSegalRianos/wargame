@@ -1,0 +1,24 @@
+body{
+    font-family: montserrat;
+}
+.mainDiv{
+    display: block;
+}
+
+input{
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    border: 0.5px solid rgb(233, 233, 233);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 250px;
+    margin-top: 30px;
+}
+.startBtn{
+    background-color: blue;
+    color:white;
+    margin-top: 30px;
+}
+
+.startBtn:hover{
+    background-color: black;
+  }
